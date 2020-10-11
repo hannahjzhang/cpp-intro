@@ -1,0 +1,5 @@
+﻿  Menus.cpp
+c:\users\id student\desktop\hannah zhang\day 3\menus\menus\menus.cpp(14): error C2628: 'GameState' followed by 'int' is illegal (did you forget a ';'?)
+c:\users\id student\desktop\hannah zhang\day 3\menus\menus\menus.cpp(15): error C3874: return type of 'main' should be 'int' instead of 'GameState'
+c:\users\id student\desktop\hannah zhang\day 3\menus\menus\menus.cpp(50): error C2440: 'return': cannot convert from 'int' to 'GameState'
+  c:\users\id student\desktop\hannah zhang\day 3\menus\menus\menus.cpp(50): note: Conversion to enumeration type requires an explicit cast (static_cast, C-style cast or function-style cast)
