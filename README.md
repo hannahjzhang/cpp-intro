@@ -1,2 +1,3 @@
 # cpp-intro
-explorations in c++
+Documentation of exploration activies in C++. <br>
+Done as part of an Introduction to C++ program.
